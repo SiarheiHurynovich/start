@@ -8,5 +8,5 @@ She is eating.
 
 branching and merge
 
-heading
+heading only forward
 
